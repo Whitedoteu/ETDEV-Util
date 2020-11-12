@@ -1,0 +1,21 @@
+{
+  "name": "electron-quick-start",
+  "version": "1.0.0",
+  "description": "A minimal Electron application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/Whitedoteu/ETDEV-Util.git",
+  "keywords": [
+    "Electron"
+  ],
+  "author": "Tobias Heer",
+  "devDependencies": {
+    "electron": "^10.1.5"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.1",
+    "bulma": "^0.9.1"
+  }
+}

@@ -1,0 +1,53 @@
+body, html {
+    background-color: black;
+    height: 100%;
+}
+
+
+.bg-image {
+    /* The image used */
+    background-image: url("background_stars.jpg");
+    background-color: black;
+    /* Add the blur effect */
+    filter: blur(4px);
+    -webkit-filter: blur(4px);
+
+    /* Full height */
+    height: 100%;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.bg-Button {
+
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+
+
+}
+
+.social-buttons {
+
+    margin-bottom: 0rem !important;
+    position: absolute;
+    align-items: flex-end;
+    justify-content: flex-end;
+    color: white;
+    bottom: 0%;
+    right: 1%;
+}
+
+.fab {
+    padding: 10px;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
