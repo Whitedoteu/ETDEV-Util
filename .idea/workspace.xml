@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -17,8 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2950a8e9-eb95-4dbd-b28f-1011b3ff6765" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +62,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/app/images" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -91,6 +94,9 @@
     </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\tobia\AppData\Roaming\Subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="2950a8e9-eb95-4dbd-b28f-1011b3ff6765" name="Default Changelist" comment="" />
@@ -100,7 +106,7 @@
       <updated>1605178484380</updated>
       <workItem from="1605178485462" duration="418000" />
       <workItem from="1605178915016" duration="535000" />
-      <workItem from="1605179459746" duration="12213000" />
+      <workItem from="1605179459746" duration="12484000" />
     </task>
     <task id="LOCAL-00001" summary="inital Commit">
       <created>1605198415546</created>
@@ -116,7 +122,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605198709056</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add README.md">
+      <created>1605199229206</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1605199229206</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -149,7 +162,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="inital Commit" />
     <MESSAGE value="inital Commit 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="inital Commit 2" />
+    <MESSAGE value="add README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="add README.md" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2373" y="382" key="#Inspections" timestamp="1605190346723">
@@ -184,18 +198,22 @@
       <screen x="0" y="0" width="5120" height="1400" />
     </state>
     <state width="2120" height="376" key="GridCell.Tab.0.right/0.0.5120.1400@0.0.5120.1400" timestamp="1605198504666" />
-    <state x="1995" y="359" key="SettingsEditor" timestamp="1605187914138">
+    <state x="135" y="126" key="MergeDialog" timestamp="1605199321237">
       <screen x="0" y="0" width="5120" height="1400" />
     </state>
-    <state x="1995" y="359" key="SettingsEditor/0.0.5120.1400@0.0.5120.1400" timestamp="1605187914138" />
-    <state x="1783" y="437" key="Vcs.Push.Dialog.v2" timestamp="1605198808141">
+    <state x="135" y="126" key="MergeDialog/0.0.5120.1400@0.0.5120.1400" timestamp="1605199321237" />
+    <state x="1995" y="359" key="SettingsEditor" timestamp="1605199409408">
       <screen x="0" y="0" width="5120" height="1400" />
     </state>
-    <state x="1783" y="437" key="Vcs.Push.Dialog.v2/0.0.5120.1400@0.0.5120.1400" timestamp="1605198808141" />
-    <state x="2008" y="618" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605198923551">
+    <state x="1995" y="359" key="SettingsEditor/0.0.5120.1400@0.0.5120.1400" timestamp="1605199409408" />
+    <state x="1783" y="437" key="Vcs.Push.Dialog.v2" timestamp="1605199241382">
       <screen x="0" y="0" width="5120" height="1400" />
     </state>
-    <state x="2008" y="618" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.5120.1400@0.0.5120.1400" timestamp="1605198923551" />
+    <state x="1783" y="437" key="Vcs.Push.Dialog.v2/0.0.5120.1400@0.0.5120.1400" timestamp="1605199241382" />
+    <state x="2008" y="618" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605199309429">
+      <screen x="0" y="0" width="5120" height="1400" />
+    </state>
+    <state x="2008" y="618" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.5120.1400@0.0.5120.1400" timestamp="1605199309429" />
     <state x="1992" y="610" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1605198499143">
       <screen x="0" y="0" width="5120" height="1400" />
     </state>
