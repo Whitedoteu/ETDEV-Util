@@ -6,41 +6,30 @@
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
     </expand>
     <select>
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/master" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2950a8e9-eb95-4dbd-b28f-1011b3ff6765" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Electron Project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/saveactions_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/webResources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/init/background_stars.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/init/init.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/init/init.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/main/app.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/main/app.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/preload.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renderer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main-process/solManconverter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/renderer/app/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/renderer/init/init.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +37,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JsFlowSettings">
@@ -111,8 +105,16 @@
       <updated>1605178484380</updated>
       <workItem from="1605178485462" duration="418000" />
       <workItem from="1605178915016" duration="535000" />
-      <workItem from="1605179459746" duration="11399000" />
+      <workItem from="1605179459746" duration="11700000" />
     </task>
+    <task id="LOCAL-00001" summary="inital Commit">
+      <created>1605198415546</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605198415546</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -129,7 +131,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="master" />
+                        <option value="origin/master" />
                       </list>
                     </value>
                   </entry>
@@ -155,29 +157,37 @@
       <screen x="0" y="0" width="5120" height="1400" />
     </state>
     <state x="2109" y="495" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.5120.1400@0.0.5120.1400" timestamp="1605179380637" />
+    <state x="1954" y="506" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605198686954">
+      <screen x="0" y="0" width="5120" height="1400" />
+    </state>
+    <state x="1954" y="506" key="#com.intellij.fileTypes.FileTypeChooser/0.0.5120.1400@0.0.5120.1400" timestamp="1605198686954" />
     <state x="2435" y="595" key="FileChooserDialogImpl" timestamp="1605187893143">
       <screen x="0" y="0" width="5120" height="1400" />
     </state>
     <state x="2435" y="595" key="FileChooserDialogImpl/0.0.5120.1400@0.0.5120.1400" timestamp="1605187893143" />
-    <state width="2120" height="376" key="GridCell.Tab.0.bottom" timestamp="1605198149160">
+    <state width="2120" height="376" key="GridCell.Tab.0.bottom" timestamp="1605198504666">
       <screen x="0" y="0" width="5120" height="1400" />
     </state>
-    <state width="2120" height="376" key="GridCell.Tab.0.bottom/0.0.5120.1400@0.0.5120.1400" timestamp="1605198149160" />
-    <state width="2120" height="376" key="GridCell.Tab.0.center" timestamp="1605198149160">
+    <state width="2120" height="376" key="GridCell.Tab.0.bottom/0.0.5120.1400@0.0.5120.1400" timestamp="1605198504666" />
+    <state width="2120" height="376" key="GridCell.Tab.0.center" timestamp="1605198504666">
       <screen x="0" y="0" width="5120" height="1400" />
     </state>
-    <state width="2120" height="376" key="GridCell.Tab.0.center/0.0.5120.1400@0.0.5120.1400" timestamp="1605198149160" />
-    <state width="2120" height="376" key="GridCell.Tab.0.left" timestamp="1605198149160">
+    <state width="2120" height="376" key="GridCell.Tab.0.center/0.0.5120.1400@0.0.5120.1400" timestamp="1605198504666" />
+    <state width="2120" height="376" key="GridCell.Tab.0.left" timestamp="1605198504666">
       <screen x="0" y="0" width="5120" height="1400" />
     </state>
-    <state width="2120" height="376" key="GridCell.Tab.0.left/0.0.5120.1400@0.0.5120.1400" timestamp="1605198149160" />
-    <state width="2120" height="376" key="GridCell.Tab.0.right" timestamp="1605198149160">
+    <state width="2120" height="376" key="GridCell.Tab.0.left/0.0.5120.1400@0.0.5120.1400" timestamp="1605198504666" />
+    <state width="2120" height="376" key="GridCell.Tab.0.right" timestamp="1605198504666">
       <screen x="0" y="0" width="5120" height="1400" />
     </state>
-    <state width="2120" height="376" key="GridCell.Tab.0.right/0.0.5120.1400@0.0.5120.1400" timestamp="1605198149160" />
+    <state width="2120" height="376" key="GridCell.Tab.0.right/0.0.5120.1400@0.0.5120.1400" timestamp="1605198504666" />
     <state x="1995" y="359" key="SettingsEditor" timestamp="1605187914138">
       <screen x="0" y="0" width="5120" height="1400" />
     </state>
     <state x="1995" y="359" key="SettingsEditor/0.0.5120.1400@0.0.5120.1400" timestamp="1605187914138" />
+    <state x="1992" y="610" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1605198499143">
+      <screen x="0" y="0" width="5120" height="1400" />
+    </state>
+    <state x="1992" y="610" key="git4idea.remote.GitConfigureRemotesDialog/0.0.5120.1400@0.0.5120.1400" timestamp="1605198499143" />
   </component>
 </project>
